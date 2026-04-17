@@ -19,7 +19,7 @@ public class History {
     }
 
     /**
-     * Extrae el último estado guardado para la operación de deshacer [cite: 17, 45]
+     * Extrae el último estado guardado para la operación de deshacer 
      * @return El memento anterior o null si el historial está vacío
      */
     public IMemento undo() {
